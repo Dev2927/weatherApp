@@ -1,8 +1,3 @@
-# React + Vite
+First go to this repo, clone the https url , make a folder in your laptop and open that folder in vs code , open the terminal and type 'git clone' and the whole url .It clones the repo and type 'cd weat' and press tab button then enter. It enters in my folder and then run npm i command. And the last step is to run  npm run dev command.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Note:This project will surely function but in case it shows 429 error after 2-3 searches, it means that its API limit has reached as it's a public API.
